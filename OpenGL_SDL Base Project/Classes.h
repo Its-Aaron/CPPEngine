@@ -1,0 +1,17 @@
+class Transform;
+class MeshRenderer;
+class Object;
+class Component;
+class Light;
+class Texture;
+class Camera;
+class Rotator;
+class MovingCharacter;
+class Cannon;
+class TriggerVolume;
+class Shooter;
+class Projectile;
+class Target;
+class FPSCharacter;
+class ShootingStall;
+class AITargetShooter;
